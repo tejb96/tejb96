@@ -1,9 +1,9 @@
-<p align="center" style="font-family: 'Fira Code', sans-serif; font-size: 2.5em; font-weight: bold;">
+<h1 align="center" >
   Hi, I'm Tej Bal 
-</p>
-<p align="center">
+</h1>
+<h3 align="center">
   Entry-Level Software Engineer with a focus on Cloud & DevOps Engineering
-</p>
+</h3>
 
 
 ---
