@@ -1,21 +1,17 @@
+<p align="center" style="font-family: 'Fira Code', sans-serif; font-size: 2.5em; font-weight: bold;">
+  Hi, I'm Tej Bal 
+</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Tej+Bal+👋;Software+Engineer+%7C+DevOps+Enthusiast;Let's+build+something+awesome+together!" alt="Typing SVG" />
+  Entry-Level Software Engineer with a focus on Cloud & DevOps Engineering
 </p>
 
----
-
-<h2 align="center">🌟 About Me</h2>
-
-<p align="center">
-  A Software Engineering graduate with hands-on experience in full-stack development (MERN stack) and a growing interest in DevOps. I’ve built scalable web applications, explored machine learning, and am now diving into automation, CI/CD pipelines, and cloud technologies. Eager to contribute to innovative projects and grow my career in the tech industry.
-</p>
 
 ---
 
 <h2 align="center">🛠️ Tech & Tools</h2>
 
 <p align="center">
-  Here are some of the technologies and tools I work with:
+  Here are some of the technologies and tools I have worked with:
 </p>
 
 <!-- ### **Cloud & DevOps** -->
@@ -91,7 +87,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tej-bal/">
+  <a href="https://www.linkedin.com/in/tejb96/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tejpreetbal@gmail.com">
