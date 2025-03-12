@@ -1,5 +1,5 @@
 <h1 align="center" >
-  Hi, I'm Tej Bal 
+  Hi, I'm Tej
 </h1>
 <h3 align="center">
   Entry-Level Software Engineer with a focus on Cloud & DevOps Engineering
