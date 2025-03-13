@@ -2,7 +2,7 @@
   Hi, I'm Tej
 </h1>
 <h3 align="center">
-  Entry-Level Software Engineer with a focus on Cloud & DevOps Engineering
+  Entry-Level Software Engineer with a focus on DevOps Engineering
 </h3>
 
 
