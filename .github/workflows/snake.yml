@@ -1,4 +1,12 @@
-name: Generate Snake
+# Generates profile README assets (stats, streak, snake) and publishes to the dist branch.
+#
+# One-time setup (required for private contributions):
+# 1. GitHub profile → Contribution settings → enable "Include private contributions on my profile"
+# 2. Create a classic PAT with scopes: repo, read:user
+# 3. Add repo secret GH_PAT with the PAT value
+# 4. Run this workflow manually (workflow_dispatch) after pushing
+
+name: Generate profile assets
 
 on:
   schedule:
@@ -11,18 +19,35 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Generate stats.svg
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=tejb96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true
+          path: dist/stats.svg
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Generate streak.svg
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: tejb96
+          token: ${{ secrets.GH_PAT }}
+          output-path: dist/streak.svg
+          theme: tokyonight
+          hide-border: true
+
       - name: Generate snake.svg
         uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: tejb96
+          github_token: ${{ secrets.GH_PAT }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
