@@ -1,96 +1,80 @@
-<h1 align="center" >
-  Hi, I'm Tej
-</h1>
-<h3 align="center">
-  Entry-Level Software Engineer with a focus on DevOps Engineering
-</h3>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=200&section=header&text=Hi%2C%20I%27m%20Tej&fontSize=42&fontAlignY=35&desc=Entry-Level%20Software%20Engineer%20%C2%B7%20DevOps%20Focus&descAlignY=55&animation=twinkling" alt="Header" />
 
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+reliable+CI%2FCD+pipelines;Cloud+%26+container+workflows;Automating+deployments+on+AWS+%26+Linux;Open+to+Software+%2F+DevOps+roles" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-<h2 align="center">🛠️ Tech & Tools</h2>
+### About me
 
 <p align="center">
-  Here are some of the technologies and tools I have worked with:
+  I build software with a focus on <strong>reliability, automation, and cloud deployment</strong>.<br>
+  Comfortable across the stack — from React/Node APIs to <strong>AWS, Docker, Linux, and Nginx</strong> in production.<br>
+  I enjoy tightening CI/CD workflows, containerizing services, and shipping maintainable systems.<br>
+  <strong>Open to software engineering and DevOps opportunities</strong> — let’s connect below.
 </p>
-
-<!-- ### **Cloud & DevOps** -->
-<p align="center">
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-</p>
-
-<!-- ### **Programming Languages** -->
-<p align="center">
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
-
-<!-- ### **Frontend Development** -->
-<p align="center">
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://mui.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/></a>
-</p>
-
-<!-- ### **Backend & Databases** -->
-<p align="center">
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-</p>
-
-<!--### **Machine Learning & Data Science**-->
-<p align="center">
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-</p>
-
-
 
 ---
 
-<h2 align="center">🎮 Hobbies & Interests</h2>
+### GitHub activity
 
 <p align="center">
-  When I’m not working on code, I love to unwind with some of my favorite hobbies:
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejb96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=tejb96&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
-<div align="center">
-  <div style="text-align: left; display: inline-block;">
-    - 🏋️‍♂️ Staying active with regular workouts<br>
-    - ♟️ Playing chess<br>
-    - 🏞️ Hiking and exploring nature<br>
-    - 🎮 Gaming to relax and have fun<br>
-    - 🎵 Listening to music
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejb96&theme=react-dark&hide_border=true&color=58A6FF&line=FFFFFF&point=FFFFFF&area=true" alt="Contribution graph" />
+</p>
 
 ---
 
-<h2 align="center">📫 Let’s Connect!</h2>
+### Tech & tools
 
 <p align="center">
-  Feel free to reach out through any of the following:
+  <strong>Cloud, DevOps & full stack</strong>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,python,java,js,ts,nodejs,react,express,redux,mongodb,mysql&perline=8" alt="Core tech stack" />
+  </a>
+</p>
+
+<details>
+<summary><strong>ML & data tools</strong></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6" alt="ML and data tools" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge" alt="Seaborn" />
+</p>
+</details>
+
+---
+
+### Let's connect
+
+<p align="center">
+  Reach out for roles, collaborations, or technical conversations.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tejb96/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tejpreetbal@gmail.com">
+  <a href="mailto:tejbaljobs@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -98,5 +82,10 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejb96&color=6495ED&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tejb96&color=58A6FF&style=flat-square" alt="Profile views" />
+</p>
+
+<!-- Snake animation (generated by GitHub Actions) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tejb96/tejb96/dist/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
