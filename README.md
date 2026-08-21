@@ -23,10 +23,10 @@
 
 ### GitHub activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejb96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=tejb96&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejb96&theme=react-dark&hide_border=true&color=58A6FF&line=FFFFFF&point=FFFFFF&area=true" alt="Contribution graph" />
